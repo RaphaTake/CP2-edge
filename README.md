@@ -300,3 +300,6 @@ Durante o desenvolvimento do projeto, a principal dificuldade enfrentada foi a m
 ## 📽️ Demonstração
 
 - 💻 [Simulação no Wokwi](https://wokwi.com/projects/430778567016292353)
+- 🎬 [Vídeo de apresentação](https://www.youtube.com/watch?v=C9sD4T-wqTw&ab_channel=Guilherme)
+
+![image](https://github.com/user-attachments/assets/673b0a98-d8aa-4467-8ff6-ab6b3351ee6b)
